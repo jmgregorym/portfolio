@@ -1,7 +1,8 @@
 # Gregory Merle
 
 ## Introduction
-Hi, I'm Gregory Merle, a recent university graduate in Bsc Economics. Here are some projects I have done
+Hi, I'm Gregory Merle, a recent university graduate in Bsc Economics. I have wanted to become a data analyst since my first Statistics class in my 1st year of university. As I have progressed to second year, where my passion grew even more with Econometrics. The 
+Here are some projects I have done
 
 ## Projects
 ### Cross-Panel Data
@@ -14,7 +15,13 @@ Hi, I'm Gregory Merle, a recent university graduate in Bsc Economics. Here are s
 - **Technologies used**: Python, Django, PostgreSQL
 - **Link**: [Project Repository](https://github.com/username/project2-repo)
 
+
 ## Skills
-- Skill 1
-- Skill 2
-- Skill 3
+- **Data Analysis**: Excel, STATA, R
+- **Data Visualisation**: ggplot2, Power BI, 
+- **Other Tools**: Git, Notion, RStudio, 
+
+  ## Contact
+- **Email**: gregorymerleofficial@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/jean-michelmerle/
+  
