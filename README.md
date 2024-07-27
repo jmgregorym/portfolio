@@ -18,7 +18,11 @@ Here are some projects I have done
 
 ## Skills
 - **Data Analysis**: Excel, STATA, R
-- **Data Visualisation**: ggplot2, Power BI, 
+- **Data Visualisation**: ggplot2, Power BI,
+- **Microsoft Tools**:
+  - **Excel**: Advanced formulas, PivotTables,
+  - **PowerPoint**: Presentation creation, Data visualization, Slide design
+  - **Word**: Document creation, Formatting, Template design
 - **Other Tools**: Git, Notion, RStudio, 
 
   ## Contact
