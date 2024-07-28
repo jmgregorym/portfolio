@@ -7,7 +7,7 @@ Here are some projects I have done:
 ## Projects
 ### Cross-Panel Data
 - **Description**: A brief description of what the project does and its main features.
-- **Technologies used**: HTML, CSS, JavaScript
+- **Technologies used**: R, Excel, 
 - **Link**: [Project Repository](https://github.com/jmgregorym/Cross-Panel-Project))
 
 ### [Project 2 Title]
