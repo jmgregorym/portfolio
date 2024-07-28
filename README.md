@@ -1,7 +1,7 @@
 # Gregory Merle
 
 ## Introduction
-Hi, I'm Gregory Merle, a recent university graduate in Bsc Economics. I have wanted to become a data analyst since my first Statistics class in my 1st year of university. As I have progressed to second year, where my passion grew even more with Econometrics. The 
+Hi, I'm Gregory Merle, a recent university graduate in Bsc Economics. I have wanted to become a data analyst since my first Statistics class in my 1st year of university. As I have progressed to second year, where my passion grew even more with Econometrics. 
 Here are some projects I have done
 
 ## Projects
